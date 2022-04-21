@@ -6,6 +6,5 @@
 // 918 -> 1
 
 int numberA = 782;
-int numberB = (numberA / 10) % 10;
 
 Console.WriteLine (numberA / 10 % 10);
